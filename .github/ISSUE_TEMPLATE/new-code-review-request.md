@@ -14,11 +14,9 @@ assignees: ''
 
 **Authors and contributors:** 
 **Field:**
-
 **Supporting papers:**
 
-Standards/Required Domain Knowledge: knowledge of d3.js, especially d3-force; familiarity with Hugo or Go templates may helpful but is not required
+**Standards/Required Domain Knowledge:**
+**Requirements:**
 
-Requirements: Should run anywhere Hugo can be installed
-
-Anything else:
+**Anything else:**
